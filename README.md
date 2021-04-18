@@ -12,4 +12,5 @@ It has following features:
 4) Chats with experts
 5) Community access across the globe
 
-The link to the UI design: https://www.figma.com/file/bpU8tt5yQ7cb7eenhjqMyF/Fitness-App-Equinox-21?node-id=0%3A1
+Figma link to the UI design: https://www.figma.com/file/bpU8tt5yQ7cb7eenhjqMyF/Fitness-App-Equinox-21?node-id=0%3A1
+Drive link to the files: https://drive.google.com/drive/folders/1s6EvAgzDfMwJXjD8o28I9wCtWvgeBPoN?usp=sharing
