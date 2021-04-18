@@ -11,3 +11,5 @@ It has following features:
 3) Pie charts, line charts etc. about your fitness
 4) Chats with experts
 5) Community access across the globe
+
+The link to the UI design: https://www.figma.com/file/bpU8tt5yQ7cb7eenhjqMyF/Fitness-App-Equinox-21?node-id=0%3A1
